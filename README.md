@@ -2,7 +2,7 @@
 
 This repository contains code and resources for the GPS tracking system which is implemented using ESP32 and GSM A7672s development board.
 
-#Objectives
+## Objectives
 
 • The main purpose of Real-Time Tracking is that the system should provide real-time
 tracking of college buses, allowing students and administrators to know the exact
@@ -17,4 +17,7 @@ data received from the IoT devices.
 such as bus delays, route deviations, or accidents.
 • The system should reduce wait times for students at bus stops by providing accurate
 arrival and departure times of buses.
+
+## Requires Components
+
 
